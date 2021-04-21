@@ -1,1 +1,2 @@
 some inform
+new line
